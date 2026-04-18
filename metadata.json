@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ANNADATA",
+  "description": "AI-powered crop recommendation system for farmers focusing on soil health, climate data, and economic sustainability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
